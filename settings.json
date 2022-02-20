@@ -1,0 +1,44 @@
+{
+  "editor.autoClosingBrackets": "always",
+  "editor.folding": false,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.wordBasedSuggestions": false,
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "all",
+  "editor.defaultFormatter": null,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "workbench.colorTheme": "Visual Studio Light",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.statusBar.visible": true,
+  "workbench.activityBar.visible": true,
+  "window.restoreWindows": "none",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "window.zoomLevel": 1
+}
+
